@@ -9,4 +9,5 @@ router = APIRouter(tags=["buy_and_sell_controller"])
     status_code=200
 )
 def get_tax_calc(req: SymbolToBuyReq):
+    x = 8
     return MainProcessManager().start_buy_and_sell_process(req)

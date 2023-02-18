@@ -1,0 +1,11 @@
+[2023-02-18 22:30:47,367 [UTC];main_gate_io;DEBUG]:Tha pair STRING_USDT doesn't exists in GateIO
+[2023-02-18 22:34:08,192 [UTC];main_gate_io;DEBUG]:Tha pair GNS_USDT exists in GateIO
+[2023-02-18 22:34:10,235 [UTC];main_gate_io;DEBUG]:Current rate of GNS is 10.4019
+[2023-02-18 22:34:12,794 [UTC];main_gate_io;DEBUG]:The currency balance of USDT is 228.62496853
+[2023-02-18 22:34:14,750 [UTC];main_gate_io;DEBUG]:Buy order: 21.869805600478944 shares of GNS_USDT
+[2023-02-18 22:34:14,751 [UTC];main_gate_io;DEBUG]:{"result":"true","message":"Success","code":0,"ctime":1676759654.708,"side":2,"orderNumber":280876488981,"rate":"10.4539","leftAmount":"5.81180560","filledAmount":"16.058","market":"GNS_USDT","iceberg":"0","filledRate":"10.440841873","feePercentage":"0.002","feeValue":"0.032116","feeCurrency":"GNS","fee":"0.032116 GNS"}
+[2023-02-18 22:35:16,589 [UTC];main_gate_io;DEBUG]:Current rate of GNS is 10.4276
+[2023-02-18 22:35:19,515 [UTC];main_gate_io;DEBUG]:The currency balance of GNS is 21.82606598
+[2023-02-18 22:35:22,103 [UTC];main_gate_io;DEBUG]:Sell order: 21.82606598 shares of GNS_USDT
+[2023-02-18 22:35:22,104 [UTC];main_gate_io;DEBUG]:{"result":"true","message":"Success","code":0,"ctime":1676759722.0544,"side":1,"orderNumber":280876959007,"rate":"10.3755","leftAmount":"14.43306598","filledAmount":"7.393","market":"GNS_USDT","iceberg":"0","filledRate":"10.392708629","feePercentage":"0.002","feeValue":"0.1536665898","feeCurrency":"USDT","fee":"0.1536665898 USDT"}
+[2023-02-18 22:35:23,962 [UTC];main_gate_io;DEBUG]:Current rate of GNS is 10.3755
