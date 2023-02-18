@@ -1,0 +1,63 @@
+[2023-02-18 20:52:46,625 [UTC];main_gate_io;DEBUG]:Currency rona isn't traded in GateIO
+[2023-02-18 20:52:57,715 [UTC];main_gate_io;DEBUG]:Current rate of btc is 24595
+[2023-02-18 21:31:21,127 [UTC];main_gate_io;DEBUG]:Tha pair BTC_USDT exists in GateIO
+[2023-02-18 21:31:23,646 [UTC];main_gate_io;DEBUG]:Current rate of btc is 24631.1
+[2023-02-18 21:31:25,847 [UTC];main_gate_io;DEBUG]:The currency balance of USDT is 230.23309472
+[2023-02-18 21:31:27,936 [UTC];main_gate_io;DEBUG]:Buy order: 0.009300748096423261 shares of btc_USDT
+[2023-02-18 21:31:27,938 [UTC];main_gate_io;DEBUG]:{"result":"false","code":5,"message":"Error: Request API key does not have write permission"}
+[2023-02-18 21:32:27,453 [UTC];main_gate_io;DEBUG]:Tha pair BTC_USDT exists in GateIO
+[2023-02-18 21:32:29,744 [UTC];main_gate_io;DEBUG]:Current rate of BTC is 24618.1
+[2023-02-18 21:32:32,509 [UTC];main_gate_io;DEBUG]:The currency balance of USDT is 230.23309472
+[2023-02-18 21:32:34,941 [UTC];main_gate_io;DEBUG]:Buy order: 0.00930565951222113 shares of BTC_USDT
+[2023-02-18 21:32:34,942 [UTC];main_gate_io;DEBUG]:{"result":"false","code":5,"message":"Error: Request API key does not have write permission"}
+[2023-02-18 21:33:09,646 [UTC];main_gate_io;DEBUG]:Tha pair BTC_USDT exists in GateIO
+[2023-02-18 21:33:12,861 [UTC];main_gate_io;DEBUG]:Current rate of BTC is 24612.9
+[2023-02-18 21:33:14,970 [UTC];main_gate_io;DEBUG]:The currency balance of USDT is 230.23309472
+[2023-02-18 21:33:17,148 [UTC];main_gate_io;DEBUG]:Buy order: 0.00930762553123813 shares of BTC_USDT
+[2023-02-18 21:33:17,148 [UTC];main_gate_io;DEBUG]:{"result":"false","code":5,"message":"Error: Request API key does not have write permission"}
+[2023-02-18 21:34:05,583 [UTC];main_gate_io;DEBUG]:Tha pair BTC_USDT exists in GateIO
+[2023-02-18 21:34:08,420 [UTC];main_gate_io;DEBUG]:Current rate of BTC is 24622.8
+[2023-02-18 21:34:10,578 [UTC];main_gate_io;DEBUG]:The currency balance of USDT is 230.23309472
+[2023-02-18 21:34:13,012 [UTC];main_gate_io;DEBUG]:Buy order: 0.009303883247957624 shares of BTC_USDT
+[2023-02-18 21:34:13,013 [UTC];main_gate_io;DEBUG]:{"result":"false","code":5,"message":"Error: Request API key does not have write permission"}
+[2023-02-18 21:34:38,226 [UTC];main_gate_io;DEBUG]:Tha pair BTC_USDT exists in GateIO
+[2023-02-18 21:34:40,505 [UTC];main_gate_io;DEBUG]:Current rate of BTC is 24620.3
+[2023-02-18 21:34:42,622 [UTC];main_gate_io;DEBUG]:The currency balance of USDT is 230.23309472
+[2023-02-18 21:34:45,538 [UTC];main_gate_io;DEBUG]:Buy order: 0.009304827984947826 shares of BTC_USDT
+[2023-02-18 21:34:45,538 [UTC];main_gate_io;DEBUG]:{"result":"false","code":5,"message":"Error: Request API key does not have write permission"}
+[2023-02-18 21:35:12,443 [UTC];main_gate_io;DEBUG]:Tha pair BTC_USDT exists in GateIO
+[2023-02-18 21:35:15,392 [UTC];main_gate_io;DEBUG]:Current rate of BTC is 24616.4
+[2023-02-18 21:35:18,364 [UTC];main_gate_io;DEBUG]:The currency balance of USDT is 230.23309472
+[2023-02-18 21:35:24,300 [UTC];main_gate_io;DEBUG]:Buy order: 0.00930630215782206 shares of BTC_USDT
+[2023-02-18 21:35:24,300 [UTC];main_gate_io;DEBUG]:{"result":"false","code":5,"message":"Error: Request API key does not have write permission"}
+[2023-02-18 21:42:43,189 [UTC];main_gate_io;DEBUG]:Tha pair BTC_USDT exists in GateIO
+[2023-02-18 21:42:44,995 [UTC];main_gate_io;DEBUG]:Current rate of BTC is 24620.3
+[2023-02-18 21:42:47,154 [UTC];main_gate_io;DEBUG]:The currency balance of USDT is 230.23309472
+[2023-02-18 21:42:48,947 [UTC];main_gate_io;DEBUG]:Buy order: 0.009304827984947826 shares of BTC_USDT
+[2023-02-18 21:42:48,948 [UTC];main_gate_io;DEBUG]:{"result":"false","code":5,"message":"Error: Request API key does not have write permission"}
+[2023-02-18 21:51:13,809 [UTC];main_gate_io;DEBUG]:Tha pair BTC_USDT exists in GateIO
+[2023-02-18 21:51:15,947 [UTC];main_gate_io;DEBUG]:Current rate of BTC is 24591.3
+[2023-02-18 21:51:18,788 [UTC];main_gate_io;DEBUG]:The currency balance of USDT is 230.23309472
+[2023-02-18 21:51:20,798 [UTC];main_gate_io;DEBUG]:Buy order: 0.009315800971799416 shares of BTC_USDT
+[2023-02-18 21:51:20,798 [UTC];main_gate_io;DEBUG]:{"result":"true","message":"Success","code":0,"ctime":1676757080.6967,"side":2,"orderNumber":280857815229,"rate":"24714.2","leftAmount":"0.00000000","filledAmount":"0.0093158009","market":"BTC_USDT","iceberg":"0","filledRate":"24591.341808594","feePercentage":"0.002","feeValue":"0.0000186316018","feeCurrency":"BTC","fee":"0.0000186316018 BTC"}
+[2023-02-18 21:52:23,871 [UTC];main_gate_io;DEBUG]:Current rate of BTC is 24602.7
+[2023-02-18 21:54:20,341 [UTC];main_gate_io;DEBUG]:Current rate of BTC is 24617
+[2023-02-18 21:54:23,773 [UTC];main_gate_io;DEBUG]:Sell order: 0.009315800971 shares of BTC_USDT
+[2023-02-18 21:54:23,774 [UTC];main_gate_io;DEBUG]:{"result":"false","message":"You don't have enough fund","code":21}
+[2023-02-18 21:54:33,501 [UTC];main_gate_io;DEBUG]:Current rate of BTC is 24617
+[2023-02-18 21:54:36,533 [UTC];main_gate_io;DEBUG]:Sell order: 0.0093158 shares of BTC_USDT
+[2023-02-18 21:54:36,534 [UTC];main_gate_io;DEBUG]:{"result":"false","message":"You don't have enough fund","code":21}
+[2023-02-18 21:55:45,890 [UTC];main_gate_io;DEBUG]:Current rate of BTC is 24616.9
+[2023-02-18 21:55:49,380 [UTC];main_gate_io;DEBUG]:Sell order: 0.009297 shares of BTC_USDT
+[2023-02-18 21:55:49,380 [UTC];main_gate_io;DEBUG]:{"result":"true","message":"Success","code":0,"ctime":1676757348.2142,"side":1,"orderNumber":280859715043,"rate":"24493.9","leftAmount":"0.00000000","filledAmount":"0.009297","market":"BTC_USDT","iceberg":"0","filledRate":"24615.167828331","feePercentage":"0.002","feeValue":"0.4576944306","feeCurrency":"USDT","fee":"0.4576944306 USDT"}
+[2023-02-18 21:57:21,434 [UTC];main_gate_io;DEBUG]:The currency balance of USDT is 229.53457144
+[2023-02-18 21:59:29,639 [UTC];main_gate_io;DEBUG]:Tha pair BTC_USDT exists in GateIO
+[2023-02-18 21:59:31,789 [UTC];main_gate_io;DEBUG]:Current rate of BTC is 24614.6
+[2023-02-18 21:59:34,248 [UTC];main_gate_io;DEBUG]:The currency balance of USDT is 229.53457144
+[2023-02-18 21:59:36,605 [UTC];main_gate_io;DEBUG]:Buy order: 0.009278745476181209 shares of BTC_USDT
+[2023-02-18 21:59:36,605 [UTC];main_gate_io;DEBUG]:{"result":"true","message":"Success","code":0,"ctime":1676757576.376,"side":2,"orderNumber":280861410027,"rate":"24737.6","leftAmount":"0.00000000","filledAmount":"0.0092787454","market":"BTC_USDT","iceberg":"0","filledRate":"24614.700000000","feePercentage":"0.002","feeValue":"0.0000185574908","feeCurrency":"BTC","fee":"0.0000185574908 BTC"}
+[2023-02-18 22:00:38,658 [UTC];main_gate_io;DEBUG]:Current rate of BTC is 24614.6
+[2023-02-18 22:00:43,780 [UTC];main_gate_io;DEBUG]:The currency balance of BTC is 0.00926035
+[2023-02-18 22:00:46,237 [UTC];main_gate_io;DEBUG]:Sell order: 0.00926035 shares of BTC_USDT
+[2023-02-18 22:00:46,238 [UTC];main_gate_io;DEBUG]:{"result":"true","message":"Success","code":0,"ctime":1676757646.095,"side":1,"orderNumber":280861888109,"rate":"24491.6","leftAmount":"0.00000000","filledAmount":"0.00926035","market":"BTC_USDT","iceberg":"0","filledRate":"24614.600000000","feePercentage":"0.002","feeValue":"0.45587962222","feeCurrency":"USDT","fee":"0.45587962222 USDT"}
+[2023-02-18 22:00:48,699 [UTC];main_gate_io;DEBUG]:Current rate of BTC is 24614.6
