@@ -24,7 +24,9 @@ def our_logger(name='Default', filename='logs.log'):
 
     formatter = logging.Formatter('[%(asctime)s [UTC];%(name)s;%(levelname)s]:%(message)s')
     logging.Formatter.converter = time.gmtime
-    file_handler = logging.FileHandler(filename)
+    log_filename = f"logs/{filename}"
+    os.makedirs(os.path.dirname(log_filename), exist_ok=True)
+    file_handler = logging.FileHandler(filename, mode='a')
     file_handler.setLevel(logging.DEBUG)
     file_handler.setFormatter(formatter)
 
